@@ -1,7 +1,7 @@
 # mi_proyecto_git
+Universidad de las Fuerzas Armadas ESPE
 
-Actividad de aprendizaje #3 ,
-Universidad de las Fuerzas Armadas ESPE.
+Actividad de aprendizaje #3
 
 **NOMBRE:** LUIS FERNANDO IZA\
 **Asignatura:** Fundamentos de Sistemas Web\
