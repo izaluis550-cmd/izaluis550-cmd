@@ -5,7 +5,7 @@ Actividad de aprendizaje #3
 
 **NOMBRE:** LUIS FERNANDO IZA\
 **Asignatura:** Fundamentos de Sistemas Web\
-**NRC**: 367500
+**NRC**: 36750
 
 ## Objetivo
 
