@@ -3,8 +3,8 @@
 Actividad de aprendizaje #3 ,
 Universidad de las Fuerzas Armadas ESPE.
 
-**NOMBRE:** LUIS FERNANDO IZA
-**Asignatura:** Fundamentos de Sistemas Web
+**NOMBRE:** LUIS FERNANDO IZA\
+**Asignatura:** Fundamentos de Sistemas Web\
 **NRC**: 36750
 
 ## Objetivo
